@@ -11,6 +11,7 @@ concurrency:
   cancel-in-progress: true
 jobs:
   source:
+    name: Godot and analysis
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
