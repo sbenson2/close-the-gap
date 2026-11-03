@@ -1,0 +1,12 @@
+Diesel (rigged character) by THEUNSEENVULGA
+https://theunseenvulga.itch.io/3d-charater-riggeddiesel
+Published under CC0 1.0. Original Diesel.glb is unmodified; game code derives
+first-person forearms, selects eyebrows and poses/scales the original skeleton.
+
+Universal Animation Library Standard by Quaternius
+https://quaternius.itch.io/universal-animation-library
+CC0 1.0; original notice in ANIMATIONS-LICENSE.txt.
+Twelve animation clips were retargeted to Diesel and resampled at 30 Hz;
+Godot interpolates skeletal motion during rendering.
+
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

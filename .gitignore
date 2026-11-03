@@ -1,0 +1,32 @@
+# Generated imports, exports, recordings and local verification evidence.
+.godot/
+builds/
+artifacts/
+__pycache__/
+*.py[cod]
+*.tmp
+*.log
+*.zip
+*.mp4
+
+# Machine settings and private session material never belong in source control.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.local/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local agent notes and release handoffs.
+AGENTS.md
+docs/*handoff*.md
+docs/**/handoff*.md
+docs/HANDOFF*
+docs/demo-plan.md
+docs/demo-update.md

@@ -1,0 +1,38 @@
+name: Checks
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: checks-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  source:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Download and verify Godot 4.7.2
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/godot"
+          gh release download 4.7.2-stable --repo godotengine/godot \
+            --pattern Godot_v4.7.2-stable_linux.x86_64.zip \
+            --pattern SHA512-SUMS.txt --dir "$RUNNER_TEMP/godot"
+          cd "$RUNNER_TEMP/godot"
+          rg ' Godot_v4.7.2-stable_linux.x86_64.zip$' SHA512-SUMS.txt | sha512sum --check --strict
+          unzip -q Godot_v4.7.2-stable_linux.x86_64.zip
+          chmod +x Godot_v4.7.2-stable_linux.x86_64
+          echo "GODOT=$RUNNER_TEMP/godot/Godot_v4.7.2-stable_linux.x86_64" >> "$GITHUB_ENV"
+      - name: Import project
+        run: '"$GODOT" --headless --editor --path . --import --quit'
+      - name: Run source and analysis checks
+        run: python3 tools/check_game.py --godot "$GODOT" --out artifacts/ci/regression
+      - name: Compile Python tools
+        run: python3 -m compileall -q tools tests

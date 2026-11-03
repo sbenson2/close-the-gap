@@ -1,0 +1,51 @@
+CLOSE THE GAP — WINDOWS DEMO
+
+1. Both players extract this same Windows ZIP.
+2. Open the extracted Close-the-Gap folder and run CloseTheGap.exe.
+   Keep CloseTheGap.pck beside the executable. No Godot installation needed.
+3. Host: Host a game > choose map, rules, weather and Quick/Full > Create game.
+4. Copy the private invite and send it privately to your friend.
+5. Friend: Join a game > Paste invite > Join friend.
+6. Both press Ready. Roles swap every round. Quick is 2 rounds; Full is 6.
+
+Try Crow's Ridge / Paired duel / Wind gusts first. Relay infiltration adds
+three sabotage stations and forces decisions about holding or leaving a perch.
+The same friend invite flow works through a direct path or encrypted relay.
+No router setup or account is required. Public connection service availability
+is outside this demo's control; Retry or make a new invite if needed.
+Allow network access if Windows Firewall asks. Keep invites private.
+
+CONTROLS (keyboard bindings can be changed in Settings)
+WASD + mouse   Move / look      Shift  Sprint      Ctrl  Crouch
+Space          Jump             Tab    Map (your position only)
+Left mouse     Attack/fire      Right mouse   Aim handgun / scope rifle
+1 / 2          Knife / handgun (stalker)       R  Reload
+G              Throw pebble (3)               Q  Reflector decoy (1)
+T              Tripwire alarm (sniper, 1)     B  Hold binoculars (sniper)
+E              Hold sabotage/repair, or use the western handline
+F1             Field guide      Esc    Menu (online play continues)
+
+PLAY
+Stalker: use cover and crouch to approach from behind. A rear knife hit is
+lethal. Frontal knife hits deal 35 damage; handgun hits deal 40.
+Sniper: stay on connected high ground, hide, observe and change perches.
+A rifle hit is lethal. Reload the 3-round magazine; you have 9 reserve rounds.
+Scoping reveals a glint; binocular observation does not. Release B to shoot.
+Bushes conceal. Trunks and boulders stop bullets. Birds and sound give rough
+clues. Gusts/rain mask footsteps. Mud tracks fade; they show past movement.
+
+RELAY INFILTRATION
+Hold E facing a nearby intact station for 4 seconds to sabotage it.
+Two offline stations start a 30-second deadline: stalker wins if it expires.
+Sniper holds E for 5 seconds to repair. Movement, damage or weapon use cancels
+progress. A repaired station stays repaired. Eliminations still win.
+Base timer is 150 seconds; an active repair deadline can extend to 180.
+
+AFTER A MATCH
+Review any completed round. Save match recording stores both viewpoints on
+this PC. Return to menu > Watch > Your recordings to play it back.
+Play again returns both friends to the ready room; both must be ready.
+The field journal records your actual online visits and role results locally.
+Practice and the two weapon lessons are available offline.
+
+See README.md, CREDITS.md and docs/demo-release.md for details and test limits.

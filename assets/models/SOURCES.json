@@ -1,0 +1,381 @@
+{
+  "version": 1,
+  "acquired_utc": "2026-11-02",
+  "notes": "Free tiers only. Download hashes identify original archives/files; CREDITS.md and adjacent licenses identify authors, grants and modifications. Wildlife is from the same Quaternius CC0 models mirrored on Poly Pizza.",
+  "downloads": [
+    {
+      "pack": "animations",
+      "page": "https://quaternius.itch.io/universal-animation-library",
+      "upload_id": "17958403",
+      "upload_name": "Universal Animation Library[Standard].zip",
+      "bytes": 15904933,
+      "sha256": "cc73fc4e495b82958207316596317a3f40b9fa38065bde1027937452da537724"
+    },
+    {
+      "pack": "birds",
+      "page": "https://heyheythere.itch.io/psx-animals-free",
+      "upload_id": "19509011",
+      "upload_name": "psx-animals-free-assets.zip",
+      "bytes": 1456085,
+      "sha256": "7e6ac36db083b3a07f81288b5fff2a94a282c5d31fc5f8afe0c0e3dfa82f9f0e"
+    },
+    {
+      "pack": "character",
+      "page": "https://theunseenvulga.itch.io/3d-charater-riggeddiesel",
+      "upload_id": "19450576",
+      "upload_name": "Diesel.glb",
+      "bytes": 10515216,
+      "sha256": "9fbb438e8221f96e1f25da90c731f474bf031970a75ba132c87e1aeaf784745e"
+    },
+    {
+      "pack": "containers",
+      "page": "https://loafbrr.itch.io/shipping-crates",
+      "upload_id": "7018301",
+      "upload_name": "ShippingCrate_Godot4.zip",
+      "bytes": 66419228,
+      "sha256": "59647314fd568c10e5be6b1f19f9344508f95cd71a7234715fad5a23105bca3e"
+    },
+    {
+      "pack": "industrial",
+      "page": "https://godgoldfear.itch.io/psx-industrial-environment-asset-pack",
+      "upload_id": "9766759",
+      "upload_name": "Industrial_exterior_v2.glb",
+      "bytes": 1730732,
+      "sha256": "7a67bc4c0f2a25f009d755af3689432d0e4b4626f5a1fefc9a81592722a88933"
+    },
+    {
+      "pack": "industrial_textures",
+      "page": "https://godgoldfear.itch.io/psx-industrial-environment-asset-pack",
+      "upload_id": "9688398",
+      "upload_name": "Industrial_exterior_v2.zip (FBX)",
+      "bytes": 3290992,
+      "sha256": "a64ac6e29820571b5c9e97f7adc384b82c959478097ca7f433da6d836f59b6d3"
+    },
+    {
+      "pack": "knife",
+      "page": "https://skywolfgamestudios.itch.io/cc0tree",
+      "upload_id": "19430985",
+      "upload_name": "Combat Knife",
+      "bytes": 34780,
+      "sha256": "cc824f7c8efa23428595ed122df20fee6915d0f193fff3eb86a4f9ae5ae39698"
+    },
+    {
+      "pack": "nature",
+      "page": "https://quaternius.itch.io/stylized-nature-megakit",
+      "upload_id": "11055123",
+      "upload_name": "Stylized Nature MegaKit[Standard].zip",
+      "bytes": 104088529,
+      "sha256": "298f6732b872e4cf7b30e6e7abf9641c7f6dc6b326df37ac089533ed7e3d58c9"
+    },
+    {
+      "pack": "nature_props",
+      "page": "https://quaternius.itch.io/150-lowpoly-nature-models",
+      "upload_id": "1588309",
+      "upload_name": "Ultimate Nature Pack by Quaternius.zip",
+      "bytes": 22951353,
+      "sha256": "865e4ae735116181923fe6ace410da3cec29e814935dc90fb298e0af3a4ff869"
+    },
+    {
+      "pack": "weapons",
+      "page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "upload_id": "9000802",
+      "upload_name": "Guns&Explosives.rar",
+      "bytes": 162200198,
+      "sha256": "275679f1f8c7d22aa413c04012571a92e6c7b266ed7174125b64b9d8533f7a1a"
+    },
+    {
+      "original_page": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+      "files": [
+        {
+          "name": "Deer",
+          "author": "Quaternius",
+          "license": "CC0-1.0",
+          "page": "https://poly.pizza/m/T6Cs7tmMHJ",
+          "asset_url": "https://static.poly.pizza/4b6c2a41-43c7-404c-ae37-e8c4645ff93b.glb",
+          "bytes": 1007564,
+          "sha256": "fabf360b22eaccccd056ee99d698a9562d15aa245821f96e4fbad6db3751604e"
+        },
+        {
+          "name": "Stag",
+          "author": "Quaternius",
+          "license": "CC0-1.0",
+          "page": "https://poly.pizza/m/tQdzbZ1Cmw",
+          "asset_url": "https://static.poly.pizza/a9c69fbc-bf7c-4585-9a49-a82e0be1ac6b.glb",
+          "bytes": 1044172,
+          "sha256": "3c2df7c13a3d37c8660684e46aa1e5a2bf7e91a9b279983921d48bd93d0b67ed"
+        },
+        {
+          "name": "Fox",
+          "author": "Quaternius",
+          "license": "CC0-1.0",
+          "page": "https://poly.pizza/m/Bc97C66HKi",
+          "asset_url": "https://static.poly.pizza/e18e86df-1692-48d8-ac6e-1e25ab4ad574.glb",
+          "bytes": 960228,
+          "sha256": "9917771e1414c46557b011cbaaee6de82a827605008227a364c3862f0be62ddc"
+        }
+      ]
+    }
+  ],
+  "runtime_models": [
+    {
+      "path": "assets/models/birds/glb/crow.glb",
+      "bytes": 144472,
+      "sha256": "57013b31271b28194cb9b1a5cc9ad9a47f76877edbca45407c20059943300844"
+    },
+    {
+      "path": "assets/models/birds/glb/rabbit.glb",
+      "bytes": 211680,
+      "sha256": "4e682f14574df3c9314a9bbfe967f00fd9ec1a263b90f5f52c7fc583f8367f51"
+    },
+    {
+      "path": "assets/models/characters/Diesel.glb",
+      "bytes": 10515216,
+      "sha256": "9fbb438e8221f96e1f25da90c731f474bf031970a75ba132c87e1aeaf784745e"
+    },
+    {
+      "path": "assets/models/characters/diesel_motions.res",
+      "bytes": 852993,
+      "sha256": "3e50377edc03a010ba2f0dbfa3b5f9bb30d1cc3532a089aaf2bd1b50a953c716"
+    },
+    {
+      "path": "assets/models/nature/Bush_Common.gltf",
+      "bytes": 2101,
+      "sha256": "77811fca92610cb254713d3d49d5029ab6cf13050c3afb61aa942786a7b2ca90"
+    },
+    {
+      "path": "assets/models/nature/Bush_Common_Flowers.gltf",
+      "bytes": 3654,
+      "sha256": "08768c680e3abeafd25858c9d3f369bcb7eed014661d3b6825a397f2a6a3deea"
+    },
+    {
+      "path": "assets/models/nature/Clover_1.gltf",
+      "bytes": 2074,
+      "sha256": "05fe48cdf1f3db879371a6ba0d843fcd407667b7680def5716c9f286efe0306b"
+    },
+    {
+      "path": "assets/models/nature/CommonTree_1.gltf",
+      "bytes": 3869,
+      "sha256": "b51cdea6545edb51d102dd6c27caafe62aa75e3c328ac8f9039f4e7bfd690bfa"
+    },
+    {
+      "path": "assets/models/nature/CommonTree_2.gltf",
+      "bytes": 3866,
+      "sha256": "67160975f0ac991b4a2ffb2add4ab4037b5e9c1bef9f66dac5235fcf0ba9bd52"
+    },
+    {
+      "path": "assets/models/nature/CommonTree_3.gltf",
+      "bytes": 3864,
+      "sha256": "17c6537aa8042bb7255fbb501bf7aeb2b6db87c16766f794f9c37be3ce70c976"
+    },
+    {
+      "path": "assets/models/nature/DeadTree_1.gltf",
+      "bytes": 2206,
+      "sha256": "b7ca9e90cbd8e8e3b3b17fd9c8fd57184ebf4986ff433ee3f2212f37f3114469"
+    },
+    {
+      "path": "assets/models/nature/DeadTree_2.gltf",
+      "bytes": 2213,
+      "sha256": "5cbff9f1277e905eaf8e40d9028fa80b0d6b635aa0677076ffa81fcf377ffabf"
+    },
+    {
+      "path": "assets/models/nature/Fern_1.gltf",
+      "bytes": 2058,
+      "sha256": "d41915cffe9dbbde1ae88be381eb9c60f7caa2274511436cc78fe4de627468ab"
+    },
+    {
+      "path": "assets/models/nature/Grass_Common_Short.gltf",
+      "bytes": 2023,
+      "sha256": "6957b50622c9e26e7296c1b47ea8653bc0d957e0a547de444e2ed96f0075a21a"
+    },
+    {
+      "path": "assets/models/nature/Grass_Common_Tall.gltf",
+      "bytes": 2025,
+      "sha256": "783466c838163bf7da44e10675ace3851b8c9fb83322387125df7a080b05cd70"
+    },
+    {
+      "path": "assets/models/nature/Grass_Wispy_Short.gltf",
+      "bytes": 2025,
+      "sha256": "3c1d3bdd332420e070abde72d73611d1f13acfbe027e26b2fb943f9bcbd6b1c5"
+    },
+    {
+      "path": "assets/models/nature/Grass_Wispy_Tall.gltf",
+      "bytes": 2023,
+      "sha256": "a05e3ac05e43abbdb89c5b61134e367c7d33e285ff8d2a6e0a40180cb335af0b"
+    },
+    {
+      "path": "assets/models/nature/Mushroom_Common.gltf",
+      "bytes": 1822,
+      "sha256": "2088b39d92f2f6331f45e59a048d02814dcd8b22767b024f4d220143bc8339f4"
+    },
+    {
+      "path": "assets/models/nature/Mushroom_Laetiporus.gltf",
+      "bytes": 1833,
+      "sha256": "88d264df9da6b0408ec276c36ae744ae79813046ba2938f03ed0837778f66fc9"
+    },
+    {
+      "path": "assets/models/nature/Pebble_Round_1.gltf",
+      "bytes": 1850,
+      "sha256": "9f6261c81134915e73cf35eb4e37076238fd1e79434515ac686d15cbd1f779ab"
+    },
+    {
+      "path": "assets/models/nature/Pebble_Round_2.gltf",
+      "bytes": 1848,
+      "sha256": "d840c072326701dd5b6c884871948b67cb38e7d10d28773c89ee2ae89da810eb"
+    },
+    {
+      "path": "assets/models/nature/Pine_1.gltf",
+      "bytes": 3832,
+      "sha256": "adc85a72e6f46f71317ca5f7630876bfb207f687427bc9e37cd97ec4af5f2cbc"
+    },
+    {
+      "path": "assets/models/nature/Pine_2.gltf",
+      "bytes": 3833,
+      "sha256": "57bd4732170b6c7e51bcf78fe5adaabf142f95a50378d8d3051d1f20a04d3c2f"
+    },
+    {
+      "path": "assets/models/nature/Pine_3.gltf",
+      "bytes": 3827,
+      "sha256": "54c72a4d614f053dd4b3d4404076a361de6085ec6a34560e42a76d7e79d89830"
+    },
+    {
+      "path": "assets/models/nature/Plant_1.gltf",
+      "bytes": 2057,
+      "sha256": "11749feb4c196bc69eaba0c0ad938fab09e3fe33c02e0d0f86b329eacf633b55"
+    },
+    {
+      "path": "assets/models/nature/Plant_7.gltf",
+      "bytes": 1844,
+      "sha256": "04d5562bdfc4b0709f0030a65d1ddce90373c8e9a4dd3b15eb7acc28cd96b7a2"
+    },
+    {
+      "path": "assets/models/nature/Rock_Medium_1.gltf",
+      "bytes": 1831,
+      "sha256": "5d1ab1fa03218f4a908728ed0eabe6486344a7e4f510b0d3d6f837fd1d011bd8"
+    },
+    {
+      "path": "assets/models/nature/Rock_Medium_2.gltf",
+      "bytes": 1825,
+      "sha256": "fac2d05a05f2d0d2098de59c09b58f42cc875c9caca4fd4c4bd57f3d36e7b12e"
+    },
+    {
+      "path": "assets/models/nature/Rock_Medium_3.gltf",
+      "bytes": 1832,
+      "sha256": "9a575b911372cf91693aa3a56aea8137ec2251c2b99fb34a31272ee64503047f"
+    },
+    {
+      "path": "assets/models/nature_props/TreeStump.fbx",
+      "bytes": 21564,
+      "sha256": "bb2f526c4259a915b49102ad374b9065d87153181c9dfb88a029068826fc88cb"
+    },
+    {
+      "path": "assets/models/nature_props/TreeStump_Moss.fbx",
+      "bytes": 21564,
+      "sha256": "53197f0637f5729af6f6cc4f20125b0575bdf8fa53ed21106430a80de0b35dec"
+    },
+    {
+      "path": "assets/models/nature_props/WoodLog.fbx",
+      "bytes": 26428,
+      "sha256": "efc0eacf35939e10b6ca13cac145fda682ae65a624448fd43faebc84d98dbb02"
+    },
+    {
+      "path": "assets/models/nature_props/WoodLog_Moss.fbx",
+      "bytes": 32012,
+      "sha256": "5a18bfd817959e886d0e781efd8c2134801a70c45a86fa000df34b8c09b2a1cf"
+    },
+    {
+      "path": "assets/models/weapons/handgun.glb",
+      "bytes": 5739304,
+      "sha256": "5fb0406e7b8f2e4052944eab2a63fdf02c199a897edfdae4ee71cc6d8673df01"
+    },
+    {
+      "path": "assets/models/weapons/knife.glb",
+      "bytes": 40916,
+      "sha256": "c0a65026823bccbbb06b967e72577ab34c11bf706947d29a052dbd235de2d518"
+    },
+    {
+      "path": "assets/models/weapons/rifle.glb",
+      "bytes": 4464300,
+      "sha256": "0bed89848f5792e8043c4885e88d4fd60e117e6413005f7bf9e127b6fb0be93e"
+    },
+    {
+      "path": "assets/models/wildlife/Deer.glb",
+      "bytes": 1007564,
+      "sha256": "fabf360b22eaccccd056ee99d698a9562d15aa245821f96e4fbad6db3751604e"
+    },
+    {
+      "path": "assets/models/wildlife/Fox.glb",
+      "bytes": 960228,
+      "sha256": "9917771e1414c46557b011cbaaee6de82a827605008227a364c3862f0be62ddc"
+    },
+    {
+      "path": "assets/models/wildlife/Stag.glb",
+      "bytes": 1044172,
+      "sha256": "3c2df7c13a3d37c8660684e46aa1e5a2bf7e91a9b279983921d48bd93d0b67ed"
+    },
+    {
+      "path": "assets/models/yard/barrier.glb",
+      "bytes": 48860,
+      "sha256": "e5dcb0018578ecaee22b1a2f23efc060e1eba422a889e61037e6a508961ac1a1"
+    },
+    {
+      "path": "assets/models/yard/beam.glb",
+      "bytes": 52248,
+      "sha256": "ea4c2c1ace21f80b8487ef2f87bf26667a96ba33618a0f0a7388f0e8fe2e514f"
+    },
+    {
+      "path": "assets/models/yard/container.glb",
+      "bytes": 10463568,
+      "sha256": "7e14a4ed957fdfba283becc789eaa69e3e939eff9f38a431e6c3433133599f45"
+    },
+    {
+      "path": "assets/models/yard/crate.glb",
+      "bytes": 13648,
+      "sha256": "a7af61cb3f77832693484593d9997ea1486348651159ac2f8aff37c3e7149a62"
+    },
+    {
+      "path": "assets/models/yard/deck.glb",
+      "bytes": 106160,
+      "sha256": "ae9510914182aeb59aa15a6c19104ec0674bffea668d0f2cacc78c121d56fbf3"
+    },
+    {
+      "path": "assets/models/yard/fixture.glb",
+      "bytes": 19180,
+      "sha256": "3a5da62028a4564c5a1c0e344ee33b06162466e93dedda96ca3eb278dedb28e0"
+    },
+    {
+      "path": "assets/models/yard/floor.glb",
+      "bytes": 180256,
+      "sha256": "12ed89d816c2160c4e5c0f40137661b05fabe403a40335cff9abc253c538da0e"
+    },
+    {
+      "path": "assets/models/yard/pipe.glb",
+      "bytes": 58060,
+      "sha256": "afd18a95b57b86a8d4baef1e8892e721ddf537e20dcbf3d2951bb2c62fbab9c9"
+    },
+    {
+      "path": "assets/models/yard/platform.glb",
+      "bytes": 59924,
+      "sha256": "450522c291db70abc54cf41ffd5af359756990acd6740aeb6a3b2f29c45923f3"
+    },
+    {
+      "path": "assets/models/yard/rail.glb",
+      "bytes": 102444,
+      "sha256": "06e4ea96f6aee934d086d0e14446ffe14404811d3b9d14fe51387f1019a0154b"
+    },
+    {
+      "path": "assets/models/yard/stairs.glb",
+      "bytes": 86348,
+      "sha256": "81ed40bf1bec33fc951e512b2becb2645a1711879b7e14ea9fd4d1fd81a4c7be"
+    },
+    {
+      "path": "assets/models/yard/wall.glb",
+      "bytes": 48668,
+      "sha256": "97195b3156acfc4b4074d6eea16e59cb530c9f0127fb68ecc42f294afaa8be39"
+    },
+    {
+      "path": "assets/models/yard/warehouse.glb",
+      "bytes": 84408,
+      "sha256": "93d9873bebcf5d224638570525dba6fa8f538c7c8edc435a7390fec9f7aa1adb"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+Guns & Explosives by 3dmodelscc0
+https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack
+Sniper rifle and Makarov meshes with supplied PBR textures, CC0 1.0.
+Modifications: restored material bindings and exported self-contained GLBs.
+
+Combat Knife from CC0Tree by SkywolfGameStudios
+https://skywolfgamestudios.itch.io/cc0tree
+CC0 1.0. Modifications: restored steel/rubber materials where the original
+FBX referenced an omitted palette; exported GLB. Authored mesh shape retained.
+Original weapon sources are retained in source_art/weapons in the source bundle.
+
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

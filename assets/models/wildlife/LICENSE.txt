@@ -1,0 +1,10 @@
+Ultimate Animated Animal Pack by Quaternius
+https://quaternius.com/packs/ultimateanimatedanimals.html
+Deer: https://poly.pizza/m/T6Cs7tmMHJ
+Stag: https://poly.pizza/m/tQdzbZ1Cmw
+Fox: https://poly.pizza/m/Bc97C66HKi
+CC0 1.0. The same creator's CC0 glTF mirrors were used because the original
+download service had reached its quota. Files are unmodified; the game
+normalizes scale, positions models on existing paths and samples their animations.
+
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

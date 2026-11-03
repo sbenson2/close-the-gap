@@ -1,0 +1,19 @@
+* text=auto
+*.gd text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.ps1 text eol=crlf
+*.vbs text eol=crlf
+*.glb binary
+*.fbx binary
+*.png binary
+*.jpg binary
+*.ttf binary
+*.wav binary
+
+# Preserve upstream asset and recording bytes for provenance and replay checks.
+assets/** -text
+source_art/** -text
+replays/** -text

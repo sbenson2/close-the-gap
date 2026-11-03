@@ -1,0 +1,21 @@
+Forest textures by Poly Haven contributors, licensed under CC0 1.0 Universal.
+Source and license: https://polyhaven.com/license
+CC0 deed: https://creativecommons.org/publicdomain/zero/1.0/
+
+Forest Leaves 02 (diffuse and OpenGL normal, 1K JPG):
+https://polyhaven.com/a/forest_leaves_02
+
+Bark Brown 02 (diffuse and OpenGL normal, 1K JPG):
+https://polyhaven.com/a/bark_brown_02
+
+Rock Boulder Dry (diffuse and OpenGL normal, 1K JPG):
+https://polyhaven.com/a/rock_boulder_dry
+
+Files are the unmodified texture maps downloaded from Poly Haven's public
+asset distribution service. They may be used and redistributed for any purpose.
+
+Powered by Poly Haven. The game does not call its live API.
+
+The foliage shader and procedural plant/forest geometry were created for
+Close the Gap and are covered by this project's MIT license. No Jak game
+assets or code from the OpenGOAL decompilation are included.
